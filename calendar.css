@@ -1,0 +1,193 @@
+body{
+    color: #581e00;
+    background: #d57e2f;
+    font-family: Verdana, Geneva, Arial, "Comic Sans MS", "Book Antiqua", sans-serif;
+}
+
+#head{
+    display: grid;
+    grid-template-columns: 24% 50% 20%;
+    color: #f1f1f1;
+    
+    line-height: 1.6;
+    
+}
+#head img{
+    width: 64px;
+}
+#cale{
+    background: #948720;
+    width: 70%;
+}
+
+.jyeshtha h4{
+    padding-top: 2%;
+    color: #ffd187;
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0px;
+}
+.jyeshtha p{
+    margin: 0px;
+    font-size: 13px;
+    line-height: 1.4;
+    padding-left: 2px;
+}
+.new{
+    padding-left: 72%;
+    padding-top: 5%;
+}
+.june h6{
+    color: #ffd187;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0px;
+    padding-top: 7%;
+    padding-left: 30%;
+}
+.june strong{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1.4;
+    margin-left: 20%;
+}
+.june p{
+    margin: 0px;
+    font-size: 13px;
+    line-height: 1.4;
+    color: #f1f1f1;
+    margin-left: 20%;
+}
+.move{
+    margin: 0px;
+    margin-left: 17%;
+    color: #f1f1f1;
+    font-size: 13px;
+    margin-top: -8px;
+    padding-bottom: 3%;
+
+}
+.column{
+    color: #edd8b2;
+    background: #b33016;
+    border-top: 1px solid #a60000;
+    text-align: center;
+    margin: 0px;
+    padding-top: 100%;
+    font-weight: 600;
+}
+.column p{
+    margin: 0px;
+}
+.box{
+    display:grid ;
+    grid-template-columns: 5% 13% 13% 13% 13% 13% 13%;
+}
+.holiday{
+    cursor: pointer;
+    background-color: rgba(229, 130, 47, .6);
+    color: #781e00;
+    background-image: url(./images/xbackground_kalash.png.pagespeed.ic.JmF9vPIEdp.webp);
+    border-top: 1px solid #b33016;
+    border-left: 1px solid #b33016;
+    border-right: 1px solid #b33016;
+    border-bottom: 1px solid #b33016;
+}
+.para{
+    margin: 0px;
+    margin-left: 4px;
+    font-size: 12px;
+}
+.navami{
+    display: grid;
+    grid-template-columns: 30% 33% 30%;
+    gap: 4%;
+   
+}
+.navami h4{
+    font-size: 1.9rem;
+    padding-left: 30%;
+    font-weight: 600;
+    margin-top: -33%;
+    color: #781e00;
+}
+.navmi h4{
+
+    font-size: 1.9rem;
+    padding-left: 6%;
+    font-weight: 600;
+    margin-top: -33%;
+    color: #781e00;
+}
+
+.navmi{
+    display: grid;
+    grid-template-columns: 30% 33% 30%;
+    gap: 4%;
+}
+.holi{
+    background: rgba(255, 255, 255, .2);
+    border: 1px solid rgba(229, 130, 47, .3);
+    font-size: 12px;
+    font-weight: 600;
+    margin: 25% 5% 0% 84%;
+}
+.holis{
+    background: rgba(255, 255, 255, .2);
+    border: 1px solid rgba(229, 130, 47, .3);
+    font-size: 12px;
+    font-weight: 600;
+    margin: 25% 9% 0% 84%;
+}
+.holidy{
+    background: rgba(255, 255, 255, .2);
+    border: 1px solid rgba(229, 130, 47, .3);
+    font-size: 12px;
+    font-weight: 600;
+    margin: 25% 2% 0% 80%;
+}
+.wrkingday{
+    background-color: #ffc565;
+    cursor: pointer;
+    color: #781e00;
+    background-image: url(../images/xbackground_kalash.png.pagespeed.ic.JmF9vPIEdp.webp);
+    border-top: 1px solid #b33016;
+    border-left: 1px solid #b33016;
+    border-right: 1px solid #b33016;
+    border-bottom: 1px solid #b33016;
+}
+.sunrise{
+    margin-left: 25%;
+    margin-top: 16%;
+}
+.sunset{
+    margin-left: 40%;
+    margin-top: 16%;
+}
+.time{
+    font-size: 12px;
+    margin-left: 6%;
+}
+.travel{
+    font-size: 12px;
+    margin-left: 24%;
+}
+
+.bottom{
+    font-size: 11px;
+}
+.bottomspan{
+    font-size: 11px;
+}
+.bottomdiv{
+    margin-left: 28%;
+}
+.sunday{
+    margin-top: 8%;
+}
+.bottomdivspan{
+    margin-left: 13%;
+}
+.bottomdispan{
+    margin-left: 24%;
+}
